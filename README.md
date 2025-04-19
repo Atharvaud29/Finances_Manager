@@ -1,0 +1,1 @@
+# This project show how you can analysis/manage your Finances using Python libraries. 
